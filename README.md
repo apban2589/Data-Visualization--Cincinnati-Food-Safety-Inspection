@@ -1,0 +1,2 @@
+# Data-Visualization--Cincinnati-Food-Safety-Inspection
+The visual insights will help understand how the restaurants are maintaining the food quality standards over a period of time. Accordingly, the department can identify the businesses that are violating Food Safety Code repeatedly and issue stringent warnings. Based on the insights, the department can design different food safety training programs that can promote food handling procedures and thus prevent foodborne illness.
